@@ -1,1 +1,1 @@
-# EEDDroidJavaServer
+# EEGDroidJavaServer
